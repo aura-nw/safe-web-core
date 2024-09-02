@@ -131,8 +131,8 @@ This app is built using the following frameworks:
 
 - [Safe Core SDK](https://github.com/safe-global/safe-core-sdk)
 - [Safe Gateway SDK](https://github.com/safe-global/safe-gateway-typescript-sdk)
-- Next.js
-- React
+- [Next.js](https://nextjs.org/docs)
+- [React](https://ru.legacy.reactjs.org/)
 - Redux
 - MUI
 - ethers.js
